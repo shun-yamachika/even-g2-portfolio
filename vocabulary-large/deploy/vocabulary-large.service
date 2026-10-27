@@ -1,0 +1,13 @@
+[Unit]
+Description=Vocabulary Large card server
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/even-g2-portfolio/vocabulary-large
+ExecStart=/absolute/path/to/node --env-file-if-exists=.env server/index.mjs
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

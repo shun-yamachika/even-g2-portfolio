@@ -1,0 +1,182 @@
+[
+  {
+    "id": "travel-01",
+    "english": "I'd like to check in for my flight to London.",
+    "japanese": "ロンドン行きの便にチェックインしたいです。",
+    "explanation": "I'd like toは丁寧な「～したいです」。flight toで「～行きの便」です。"
+  },
+  {
+    "id": "travel-02",
+    "english": "Could I have an aisle seat, if possible?",
+    "japanese": "可能なら通路側の席にしていただけますか。",
+    "explanation": "aisle seatは「通路側の席」。if possibleで「可能であれば」です。"
+  },
+  {
+    "id": "travel-03",
+    "english": "How much baggage am I allowed to check in?",
+    "japanese": "預けられる荷物はどれくらいですか。",
+    "explanation": "be allowed toは「～することを許可される」。check in baggageは荷物を預けることです。"
+  },
+  {
+    "id": "travel-04",
+    "english": "Will I have enough time to catch my connecting flight?",
+    "japanese": "乗り継ぎ便に間に合う時間はありますか。",
+    "explanation": "catch a flightは「便に間に合う」。connecting flightは「乗り継ぎ便」です。"
+  },
+  {
+    "id": "travel-05",
+    "english": "My flight has been delayed by two hours.",
+    "japanese": "私の便は2時間遅れています。",
+    "explanation": "has been delayedは現在完了の受け身。by two hoursは遅れの長さです。"
+  },
+  {
+    "id": "travel-06",
+    "english": "Has the departure gate been changed?",
+    "japanese": "出発ゲートは変更されましたか。",
+    "explanation": "Has ... been changed?は現在完了の受け身の疑問文です。"
+  },
+  {
+    "id": "travel-07",
+    "english": "I'm here for sightseeing and will stay for five days.",
+    "japanese": "観光で来ました。5日間滞在します。",
+    "explanation": "for sightseeingは「観光目的で」。stay for five daysは「5日間滞在する」です。"
+  },
+  {
+    "id": "travel-08",
+    "english": "I have nothing to declare.",
+    "japanese": "申告するものはありません。",
+    "explanation": "税関で使う定型表現。declareは「申告する」です。"
+  },
+  {
+    "id": "travel-09",
+    "english": "My suitcase did not arrive at the baggage claim.",
+    "japanese": "手荷物受取所に私のスーツケースが出てきませんでした。",
+    "explanation": "baggage claimは「手荷物受取所」。arrive atは「～に到着する」です。"
+  },
+  {
+    "id": "travel-10",
+    "english": "Could you tell me how to get to the nearest station?",
+    "japanese": "最寄り駅への行き方を教えていただけますか。",
+    "explanation": "Could you tell me how to...?は道を尋ねる丁寧な表現です。"
+  },
+  {
+    "id": "travel-11",
+    "english": "Does this day pass include buses as well as trains?",
+    "japanese": "この一日券は電車だけでなくバスも含みますか。",
+    "explanation": "as well asは「～だけでなく…も」。day passは「一日乗車券」です。"
+  },
+  {
+    "id": "travel-12",
+    "english": "I missed the last train; is there another way to get there?",
+    "japanese": "終電に乗り遅れました。ほかに行く方法はありますか。",
+    "explanation": "miss a trainは「電車に乗り遅れる」。another way toで「別の～する方法」です。"
+  },
+  {
+    "id": "travel-13",
+    "english": "Please take me to this address.",
+    "japanese": "この住所までお願いします。",
+    "explanation": "タクシーで使える表現。take 人 to 場所で「人を場所へ連れて行く」です。"
+  },
+  {
+    "id": "travel-14",
+    "english": "I have a reservation under the name Yamachika.",
+    "japanese": "ヤマチカの名前で予約しています。",
+    "explanation": "under the nameで「～の名前で」。ホテルやレストランで使います。"
+  },
+  {
+    "id": "travel-15",
+    "english": "Could you store my luggage until check-in time?",
+    "japanese": "チェックイン時刻まで荷物を預かっていただけますか。",
+    "explanation": "store luggageは「荷物を預かる」。untilは「～まで」です。"
+  },
+  {
+    "id": "travel-16",
+    "english": "The air conditioner in my room does not seem to work.",
+    "japanese": "部屋のエアコンが動いていないようです。",
+    "explanation": "does not seem toは「～していないようだ」。workは機械なら「作動する」です。"
+  },
+  {
+    "id": "travel-17",
+    "english": "Could you write down the Wi-Fi password for me?",
+    "japanese": "Wi-Fiのパスワードを書いていただけますか。",
+    "explanation": "write downは「書き留める」。for meで「私のために」です。"
+  },
+  {
+    "id": "travel-18",
+    "english": "Do you have a table available for two?",
+    "japanese": "2人で利用できる席はありますか。",
+    "explanation": "availableは「利用可能な」。a table for twoは「2人用の席」です。"
+  },
+  {
+    "id": "travel-19",
+    "english": "What local dish would you recommend?",
+    "japanese": "おすすめの郷土料理は何ですか。",
+    "explanation": "would you recommendは丁寧におすすめを尋ねる表現です。"
+  },
+  {
+    "id": "travel-20",
+    "english": "Does this dish contain any nuts?",
+    "japanese": "この料理にはナッツが入っていますか。",
+    "explanation": "containは「含む」。アレルギー確認で使える重要表現です。"
+  },
+  {
+    "id": "travel-21",
+    "english": "Could you make this dish without meat or fish?",
+    "japanese": "この料理を肉と魚なしで作っていただけますか。",
+    "explanation": "make A without Bは「Bを使わずAを作る」。食事制限を伝える表現です。"
+  },
+  {
+    "id": "travel-22",
+    "english": "Could we have the bill, please?",
+    "japanese": "お会計をお願いします。",
+    "explanation": "billは主に英国英語の「勘定書」。米国ではcheckも使います。"
+  },
+  {
+    "id": "travel-23",
+    "english": "Can I pay by card or contactless payment?",
+    "japanese": "カードまたはタッチ決済で支払えますか。",
+    "explanation": "pay by cardは「カードで払う」。contactless paymentは「非接触決済」です。"
+  },
+  {
+    "id": "travel-24",
+    "english": "Do you have this in a larger size?",
+    "japanese": "これの大きいサイズはありますか。",
+    "explanation": "have this in＋サイズ・色で、別サイズや色の在庫を尋ねられます。"
+  },
+  {
+    "id": "travel-25",
+    "english": "May I try this on before I buy it?",
+    "japanese": "購入前に試着してもよいですか。",
+    "explanation": "try onは「試着する」。May I...?は丁寧な許可の依頼です。"
+  },
+  {
+    "id": "travel-26",
+    "english": "Am I eligible for a tax-free purchase?",
+    "japanese": "私は免税購入の対象になりますか。",
+    "explanation": "be eligible forは「～の対象資格がある」。tax-freeは「免税の」です。"
+  },
+  {
+    "id": "travel-27",
+    "english": "Do you have anything for a headache?",
+    "japanese": "頭痛に効くものはありますか。",
+    "explanation": "anything for＋症状で「症状に効く何か」。薬局で使えます。"
+  },
+  {
+    "id": "travel-28",
+    "english": "I need to see a doctor who speaks English.",
+    "japanese": "英語を話せる医師に診てもらう必要があります。",
+    "explanation": "see a doctorは「診察を受ける」。who以下がdoctorを説明します。"
+  },
+  {
+    "id": "travel-29",
+    "english": "I have lost my passport and need to contact my embassy.",
+    "japanese": "パスポートを紛失したので、大使館へ連絡する必要があります。",
+    "explanation": "have lostは紛失状態が続く現在完了。embassyは「大使館」です。"
+  },
+  {
+    "id": "travel-30",
+    "english": "Could you call the police or an ambulance for me?",
+    "japanese": "警察か救急車を呼んでいただけますか。",
+    "explanation": "call the policeは「警察を呼ぶ」。ambulanceは「救急車」です。"
+  }
+]

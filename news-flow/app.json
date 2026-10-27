@@ -1,0 +1,16 @@
+{
+  "package_id": "com.example.eveng2.newsflow",
+  "name": "News Flow",
+  "version": "0.1.0",
+  "edition": "202601",
+  "min_sdk_version": "0.0.14",
+  "entrypoint": "index.html",
+  "permissions": [
+    {
+      "name": "network",
+      "desc": "自宅PCからニュースを取得します。",
+      "whitelist": ["http://192.168.1.100:8787"]
+    }
+  ],
+  "supported_languages": ["ja", "en"]
+}

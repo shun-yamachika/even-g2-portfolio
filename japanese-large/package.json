@@ -1,0 +1,26 @@
+{
+  "name": "even-g2-japanese-large",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5175",
+    "sim": "node node_modules/@evenrealities/evenhub-simulator/bin/index.js http://localhost:5175",
+    "qr": "evenhub qr",
+    "build": "tsc && vite build",
+    "pack": "npm run build && evenhub pack app.json dist -o japanese-large-beta.ehpk --sdk-ver 0.0.15",
+    "preview": "vite preview --port 4175"
+  },
+  "dependencies": {
+    "@evenrealities/even_hub_sdk": "^0.0.15"
+  },
+  "devDependencies": {
+    "@evenrealities/evenhub-cli": "^0.1.14",
+    "@evenrealities/evenhub-simulator": "^0.9.5",
+    "typescript": "^5.9.2",
+    "vite": "^8.2.2"
+  }
+}

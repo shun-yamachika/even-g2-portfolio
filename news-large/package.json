@@ -1,0 +1,28 @@
+{
+  "name": "even-g2-news-large",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5176",
+    "news-server": "node --env-file-if-exists=.env server/index.mjs",
+    "sim": "node node_modules/@evenrealities/evenhub-simulator/bin/index.js http://localhost:5176",
+    "qr": "evenhub qr",
+    "pack": "npm run build && evenhub pack app.json dist -o news-large.ehpk --sdk-ver 0.0.14",
+    "build": "tsc && vite build",
+    "preview": "vite preview --port 4176"
+  },
+  "dependencies": {
+    "@evenrealities/even_hub_sdk": "^0.0.14"
+  },
+  "devDependencies": {
+    "@evenrealities/evenhub-cli": "^0.1.14",
+    "@evenrealities/evenhub-simulator": "^0.9.5",
+    "@rolldown/binding-linux-x64-gnu": "^1.2.6",
+    "typescript": "^5.9.2",
+    "vite": "^8.2.2"
+  }
+}

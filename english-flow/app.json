@@ -1,0 +1,16 @@
+{
+  "package_id": "com.example.eveng2.englishflow",
+  "name": "English Flow",
+  "version": "0.1.0",
+  "edition": "202601",
+  "min_sdk_version": "0.0.14",
+  "entrypoint": "index.html",
+  "permissions": [
+    {
+      "name": "network",
+      "desc": "自宅PCから英語学習カードを取得します。",
+      "whitelist": ["https://your-pc.example.ts.net:8443"]
+    }
+  ],
+  "supported_languages": ["ja", "en"]
+}

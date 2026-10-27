@@ -1,0 +1,18 @@
+[Unit]
+# 自宅PCで、ネットワークが使えるようになってから起動する。
+Description=English Flow study card server
+After=network-online.target
+
+[Service]
+Type=simple
+# ソースと.envを探す基準ディレクトリ。
+WorkingDirectory=%h/even-g2-portfolio/english-flow
+# systemdは対話シェルのfnm設定を読まないため、Node.jsを絶対パスで指定する。
+ExecStart=/absolute/path/to/node --env-file-if-exists=.env server/index.mjs
+# 一時的な障害で終了した場合は5秒後に再起動する。
+Restart=on-failure
+RestartSec=5
+
+[Install]
+# loginctl enable-lingerと組み合わせ、ログアウト後もユーザーサービスとして動かす。
+WantedBy=default.target

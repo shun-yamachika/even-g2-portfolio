@@ -1,0 +1,15 @@
+{
+  "package_id": "com.example.eveng2.vocabularylarge",
+  "name": "Vocabulary Large",
+  "version": "0.2.0",
+  "edition": "202601",
+  "min_app_version": "2.2.10",
+  "min_sdk_version": "0.0.15",
+  "entrypoint": "index.html",
+  "permissions": [{
+    "name": "network",
+    "desc": "自宅PCから英単語・意味・例文を取得します。",
+    "whitelist": ["https://your-pc.example.ts.net:8444"]
+  }],
+  "supported_languages": ["ja", "en"]
+}

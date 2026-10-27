@@ -1,0 +1,182 @@
+[
+  {
+    "id": "linux-01",
+    "english": "The SYNOPSIS section shows how a command should be invoked.",
+    "japanese": "SYNOPSIS節は、コマンドをどのように実行すべきかを示します。",
+    "explanation": "invokeは「実行する」。should be invokedは受け身で「実行されるべき」です。"
+  },
+  {
+    "id": "linux-02",
+    "english": "Arguments enclosed in square brackets are optional.",
+    "japanese": "角括弧で囲まれた引数は省略可能です。",
+    "explanation": "enclosed inは「～で囲まれた」。optionalは「任意の、省略可能な」です。"
+  },
+  {
+    "id": "linux-03",
+    "english": "An ellipsis indicates that the preceding item may be repeated.",
+    "japanese": "省略記号は、直前の項目を繰り返せることを示します。",
+    "explanation": "ellipsisは「…」。precedingは「直前の」、mayは可能性・許可を表します。"
+  },
+  {
+    "id": "linux-04",
+    "english": "Use man -k to search for manual pages by keyword.",
+    "japanese": "キーワードでマニュアルページを探すにはman -kを使います。",
+    "explanation": "by keywordは「キーワードによって」。to searchは目的を表します。"
+  },
+  {
+    "id": "linux-05",
+    "english": "Most commands display a brief summary when invoked with --help.",
+    "japanese": "多くのコマンドは--help付きで実行すると短い説明を表示します。",
+    "explanation": "when invokedはwhen they are invokedを短縮した受け身表現です。"
+  },
+  {
+    "id": "linux-06",
+    "english": "Options usually appear before operands unless stated otherwise.",
+    "japanese": "特に記載がなければ、通常オプションはオペランドより前に置きます。",
+    "explanation": "unless stated otherwiseは「別途記載がない限り」という頻出表現です。"
+  },
+  {
+    "id": "linux-07",
+    "english": "A pipe sends the standard output of one command to the standard input of another.",
+    "japanese": "パイプは、あるコマンドの標準出力を別のコマンドの標準入力へ送ります。",
+    "explanation": "one ... anotherで「あるもの…別のもの」。standard outputは標準出力です。"
+  },
+  {
+    "id": "linux-08",
+    "english": "Redirecting output with > overwrites the destination file.",
+    "japanese": ">で出力をリダイレクトすると、出力先ファイルを上書きします。",
+    "explanation": "動名詞Redirectingが主語。overwriteは「上書きする」です。"
+  },
+  {
+    "id": "linux-09",
+    "english": "Use >> if you need to preserve the existing contents of the file.",
+    "japanese": "ファイルの既存内容を残す必要がある場合は>>を使います。",
+    "explanation": "preserveは「保持する」。existing contentsは「既存の内容」です。"
+  },
+  {
+    "id": "linux-10",
+    "english": "Standard error remains visible unless it is redirected separately.",
+    "japanese": "標準エラーは、個別にリダイレクトしない限り表示されたままです。",
+    "explanation": "remain＋形容詞は「～のままである」。separatelyは「別々に」です。"
+  },
+  {
+    "id": "linux-11",
+    "english": "The shell expands wildcards before the command is executed.",
+    "japanese": "シェルはコマンドが実行される前にワイルドカードを展開します。",
+    "explanation": "expandは「展開する」。before以下は受け身になっています。"
+  },
+  {
+    "id": "linux-12",
+    "english": "Quoting a variable prevents unwanted word splitting and pathname expansion.",
+    "japanese": "変数を引用符で囲むと、意図しない単語分割とパス名展開を防げます。",
+    "explanation": "preventは「防ぐ」。quoting a variableが文全体の主語です。"
+  },
+  {
+    "id": "linux-13",
+    "english": "An absolute path begins at the root directory, whereas a relative path does not.",
+    "japanese": "絶対パスはルートディレクトリから始まりますが、相対パスはそうではありません。",
+    "explanation": "whereasは対照を表す「一方で」。does notはbegins at the rootを省略しています。"
+  },
+  {
+    "id": "linux-14",
+    "english": "A symbolic link refers to another file without copying its contents.",
+    "japanese": "シンボリックリンクは内容をコピーせず、別のファイルを参照します。",
+    "explanation": "refer toは「参照する」。without doingは「～せずに」です。"
+  },
+  {
+    "id": "linux-15",
+    "english": "The chmod command changes the permission bits associated with a file.",
+    "japanese": "chmodコマンドは、ファイルに関連付けられた許可ビットを変更します。",
+    "explanation": "associated withは「～に関連付けられた」。permission bitsは許可ビットです。"
+  },
+  {
+    "id": "linux-16",
+    "english": "Only the owner or a privileged user may change file ownership.",
+    "japanese": "所有者または権限を持つユーザーだけが、ファイルの所有権を変更できます。",
+    "explanation": "privileged userは「特権ユーザー」。ownershipは「所有権」です。"
+  },
+  {
+    "id": "linux-17",
+    "english": "The recursive option applies the operation to every file below a directory.",
+    "japanese": "再帰オプションは、ディレクトリ配下の全ファイルに操作を適用します。",
+    "explanation": "apply A to Bは「AをBに適用する」。recursiveは「再帰的な」です。"
+  },
+  {
+    "id": "linux-18",
+    "english": "The find command evaluates its expression from left to right.",
+    "japanese": "findコマンドは式を左から右へ評価します。",
+    "explanation": "evaluateは「評価する」。from left to rightは「左から右へ」です。"
+  },
+  {
+    "id": "linux-19",
+    "english": "grep returns a status of zero when at least one line matches the pattern.",
+    "japanese": "grepは1行以上がパターンに一致すると終了状態0を返します。",
+    "explanation": "at least oneは「少なくとも1つ」。matchは「一致する」です。"
+  },
+  {
+    "id": "linux-20",
+    "english": "Processes inherit environment variables exported by their parent shell.",
+    "japanese": "プロセスは親シェルがexportした環境変数を引き継ぎます。",
+    "explanation": "inheritは「引き継ぐ」。exported by以下がvariablesを説明します。"
+  },
+  {
+    "id": "linux-21",
+    "english": "The PATH variable determines which directories the shell searches for commands.",
+    "japanese": "PATH変数は、シェルがコマンドを探すディレクトリを決定します。",
+    "explanation": "determineは「決定する」。which directories以下は間接疑問です。"
+  },
+  {
+    "id": "linux-22",
+    "english": "A process may be terminated gracefully by sending it SIGTERM.",
+    "japanese": "プロセスへSIGTERMを送ると、正常に終了させられる場合があります。",
+    "explanation": "terminate gracefullyは「正常に終了させる」。by doingは手段を表します。"
+  },
+  {
+    "id": "linux-23",
+    "english": "Use SIGKILL only when a process cannot be stopped by other means.",
+    "japanese": "ほかの手段でプロセスを停止できない場合だけSIGKILLを使います。",
+    "explanation": "by other meansは「ほかの手段で」。cannot be stoppedは受け身です。"
+  },
+  {
+    "id": "linux-24",
+    "english": "systemctl status reports whether a unit is active and why it failed.",
+    "japanese": "systemctl statusは、ユニットが稼働中か、なぜ失敗したかを表示します。",
+    "explanation": "whetherは「～かどうか」。why it failedもreportsの目的語です。"
+  },
+  {
+    "id": "linux-25",
+    "english": "journalctl can restrict its output to messages from a specific service.",
+    "japanese": "journalctlは出力を特定サービスのメッセージに限定できます。",
+    "explanation": "restrict A to Bは「AをBに限定する」。specificは「特定の」です。"
+  },
+  {
+    "id": "linux-26",
+    "english": "A service marked as enabled starts automatically during system startup.",
+    "japanese": "enabledと設定されたサービスは、システム起動時に自動的に開始します。",
+    "explanation": "marked asは「～と設定された」。during startupは「起動時に」です。"
+  },
+  {
+    "id": "linux-27",
+    "english": "Mounting a filesystem makes its contents accessible at a directory called a mount point.",
+    "japanese": "ファイルシステムをマウントすると、マウントポイントというディレクトリから内容へアクセスできます。",
+    "explanation": "make A accessibleは「Aをアクセス可能にする」。called以下がdirectoryを説明します。"
+  },
+  {
+    "id": "linux-28",
+    "english": "df reports free space, whereas du estimates the space used by files.",
+    "japanese": "dfは空き容量を報告し、一方duはファイルが使う容量を見積もります。",
+    "explanation": "reportは「報告する」、estimateは「見積もる」。whereasは対比です。"
+  },
+  {
+    "id": "linux-29",
+    "english": "Package managers resolve dependencies before installing or upgrading software.",
+    "japanese": "パッケージマネージャーはソフトウェアの導入や更新前に依存関係を解決します。",
+    "explanation": "resolve dependenciesは「依存関係を解決する」。before doingは「～する前に」です。"
+  },
+  {
+    "id": "linux-30",
+    "english": "Always check the exit status and logs before assuming that a command succeeded.",
+    "japanese": "コマンドが成功したと判断する前に、必ず終了状態とログを確認します。",
+    "explanation": "assume thatは「～だと判断する」。succeededはsucceedの過去形です。"
+  }
+]

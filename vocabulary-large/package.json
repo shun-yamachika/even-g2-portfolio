@@ -1,0 +1,31 @@
+{
+  "name": "even-g2-vocabulary-large",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "test": "node scripts/test-lifecycle.mjs && node scripts/test-network.mjs && node server/server.test.mjs",
+    "vocabulary-server": "node --env-file-if-exists=.env server/index.mjs",
+    "dev": "vite --host 0.0.0.0 --port 5177",
+    "sim": "node scripts/start-simulator.mjs",
+    "sim:connect": "node node_modules/@evenrealities/evenhub-simulator/bin/index.js http://localhost:5177",
+    "qr": "evenhub qr",
+    "build": "tsc && vite build",
+    "pack": "npm run build && evenhub pack app.json dist -o vocabulary-large-beta.ehpk --sdk-ver 0.0.15",
+    "build:text": "tsc && vite build --mode text --outDir dist-text",
+    "pack:text": "npm run build:text && evenhub pack app-text.json dist-text -o vocabulary-large-text-beta.ehpk --sdk-ver 0.0.15",
+    "preview": "vite preview --port 4177"
+  },
+  "dependencies": {
+    "@evenrealities/even_hub_sdk": "^0.0.15"
+  },
+  "devDependencies": {
+    "@evenrealities/evenhub-cli": "^0.1.14",
+    "@evenrealities/evenhub-simulator": "^0.9.5",
+    "typescript": "^5.9.2",
+    "vite": "^8.2.2"
+  }
+}

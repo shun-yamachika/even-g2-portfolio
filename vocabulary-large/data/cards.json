@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "accommodate",
+    "meaning": "収容する・要望に応じる",
+    "example": "The hotel can accommodate 200 guests."
+  },
+  {
+    "word": "anticipate",
+    "meaning": "予想する・期待する",
+    "example": "We anticipate higher sales this year."
+  },
+  {
+    "word": "applicant",
+    "meaning": "応募者",
+    "example": "Each applicant must submit a resume."
+  },
+  {
+    "word": "authorize",
+    "meaning": "権限を与える・許可する",
+    "example": "Only managers can authorize the payment."
+  },
+  {
+    "word": "compliance",
+    "meaning": "法令遵守・規則に従うこと",
+    "example": "The audit confirmed full compliance."
+  },
+  {
+    "word": "consecutive",
+    "meaning": "連続した",
+    "example": "Sales increased for three consecutive months."
+  },
+  {
+    "word": "considerably",
+    "meaning": "かなり・相当に",
+    "example": "Delivery times have improved considerably."
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "実演する・明確に示す",
+    "example": "The trainer will demonstrate the new system."
+  },
+  {
+    "word": "eligible",
+    "meaning": "資格がある",
+    "example": "All full-time staff are eligible for the plan."
+  },
+  {
+    "word": "facilitate",
+    "meaning": "促進する・容易にする",
+    "example": "This tool will facilitate communication."
+  },
+  {
+    "word": "implement",
+    "meaning": "実施する・導入する",
+    "example": "The company will implement a new policy."
+  },
+  {
+    "word": "incentive",
+    "meaning": "奨励金・動機づけ",
+    "example": "Employees received a performance incentive."
+  },
+  {
+    "word": "itinerary",
+    "meaning": "旅行日程・旅程表",
+    "example": "Your itinerary is attached to the email."
+  },
+  {
+    "word": "mandatory",
+    "meaning": "義務的な・必須の",
+    "example": "Safety training is mandatory for all staff."
+  },
+  {
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "example": "We need to negotiate a better price."
+  },
+  {
+    "word": "postpone",
+    "meaning": "延期する",
+    "example": "They postponed the meeting until Friday."
+  },
+  {
+    "word": "preliminary",
+    "meaning": "予備的な・暫定的な",
+    "example": "The preliminary results look promising."
+  },
+  {
+    "word": "reimbursement",
+    "meaning": "払い戻し・経費精算",
+    "example": "Submit receipts for travel reimbursement."
+  },
+  {
+    "word": "renovation",
+    "meaning": "改装・修復",
+    "example": "The lobby is closed for renovation."
+  },
+  {
+    "word": "respective",
+    "meaning": "それぞれの",
+    "example": "Please return to your respective offices."
+  },
+  {
+    "word": "retain",
+    "meaning": "保持する・雇い続ける",
+    "example": "The firm hopes to retain skilled workers."
+  },
+  {
+    "word": "shipment",
+    "meaning": "発送品・出荷",
+    "example": "The shipment will arrive by noon."
+  },
+  {
+    "word": "specification",
+    "meaning": "仕様・明細",
+    "example": "The product meets every specification."
+  },
+  {
+    "word": "substitute",
+    "meaning": "代用品・代わりを務める",
+    "example": "Ms. Lee will substitute for the director."
+  },
+  {
+    "word": "tentative",
+    "meaning": "仮の・暫定的な",
+    "example": "The tentative date is September 15."
+  },
+  {
+    "word": "transaction",
+    "meaning": "取引・処理",
+    "example": "The transaction was completed online."
+  },
+  {
+    "word": "venue",
+    "meaning": "会場・開催地",
+    "example": "The venue is near the central station."
+  },
+  {
+    "word": "verify",
+    "meaning": "確認する・検証する",
+    "example": "Please verify your contact information."
+  },
+  {
+    "word": "warranty",
+    "meaning": "保証・保証書",
+    "example": "The printer comes with a two-year warranty."
+  },
+  {
+    "word": "withdraw",
+    "meaning": "撤回する・引き出す",
+    "example": "The client decided to withdraw the request."
+  },
+  {
+    "word": "allocate",
+    "meaning": "割り当てる",
+    "example": "We allocated more funds to advertising."
+  },
+  {
+    "word": "annual",
+    "meaning": "年に一度の・年間の",
+    "example": "The annual conference begins on Monday."
+  },
+  {
+    "word": "anonymous",
+    "meaning": "匿名の",
+    "example": "The survey responses will remain anonymous."
+  },
+  {
+    "word": "appliance",
+    "meaning": "電気製品・器具",
+    "example": "This appliance uses very little energy."
+  },
+  {
+    "word": "applicable",
+    "meaning": "適用できる・該当する",
+    "example": "The discount is applicable to online orders."
+  },
+  {
+    "word": "appointment",
+    "meaning": "予約・任命",
+    "example": "I have a dental appointment at three."
+  },
+  {
+    "word": "appraisal",
+    "meaning": "評価・査定",
+    "example": "Staff appraisals are held every June."
+  },
+  {
+    "word": "approximately",
+    "meaning": "およそ・約",
+    "example": "The tour takes approximately two hours."
+  },
+  {
+    "word": "assurance",
+    "meaning": "保証・確信",
+    "example": "We received assurance that delivery was on time."
+  },
+  {
+    "word": "attendance",
+    "meaning": "出席・出勤",
+    "example": "Attendance at the workshop is required."
+  },
+  {
+    "word": "attribute",
+    "meaning": "〜の結果と考える・特性",
+    "example": "She attributes her success to teamwork."
+  },
+  {
+    "word": "audit",
+    "meaning": "監査・会計検査",
+    "example": "An independent firm conducted the audit."
+  },
+  {
+    "word": "available",
+    "meaning": "利用できる・空いている",
+    "example": "The meeting room is available after lunch."
+  },
+  {
+    "word": "beneficiary",
+    "meaning": "受益者・受取人",
+    "example": "Please name a beneficiary for the policy."
+  },
+  {
+    "word": "branch",
+    "meaning": "支店・部門",
+    "example": "Our Osaka branch opened last spring."
+  },
+  {
+    "word": "brochure",
+    "meaning": "案内冊子・パンフレット",
+    "example": "The brochure describes all available tours."
+  },
+  {
+    "word": "budget",
+    "meaning": "予算",
+    "example": "The project stayed within its budget."
+  },
+  {
+    "word": "candidate",
+    "meaning": "候補者・応募者",
+    "example": "Three candidates were invited for interviews."
+  },
+  {
+    "word": "capacity",
+    "meaning": "収容能力・生産能力",
+    "example": "The factory is operating at full capacity."
+  },
+  {
+    "word": "circumstance",
+    "meaning": "状況・事情",
+    "example": "The policy applies under normal circumstances."
+  },
+  {
+    "word": "collaborate",
+    "meaning": "協力する・共同制作する",
+    "example": "The two departments will collaborate closely."
+  },
+  {
+    "word": "commence",
+    "meaning": "開始する",
+    "example": "Construction will commence in early May."
+  },
+  {
+    "word": "compensate",
+    "meaning": "補償する・埋め合わせる",
+    "example": "Customers will be compensated for the delay."
+  },
+  {
+    "word": "competent",
+    "meaning": "有能な・適任の",
+    "example": "We need a competent project manager."
+  },
+  {
+    "word": "complimentary",
+    "meaning": "無料の・称賛の",
+    "example": "Guests receive a complimentary breakfast."
+  },
+  {
+    "word": "comprehensive",
+    "meaning": "包括的な・総合的な",
+    "example": "The report provides a comprehensive review."
+  },
+  {
+    "word": "confidential",
+    "meaning": "機密の",
+    "example": "Employee records are strictly confidential."
+  },
+  {
+    "word": "confirmation",
+    "meaning": "確認・確定通知",
+    "example": "You will receive confirmation by email."
+  },
+  {
+    "word": "consent",
+    "meaning": "同意・承諾",
+    "example": "We need your written consent to proceed."
+  },
+  {
+    "word": "consultant",
+    "meaning": "顧問・コンサルタント",
+    "example": "The consultant recommended several changes."
+  },
+  {
+    "word": "consumer",
+    "meaning": "消費者",
+    "example": "Consumer demand remained strong this quarter."
+  },
+  {
+    "word": "contractor",
+    "meaning": "請負業者",
+    "example": "The contractor completed the repairs early."
+  },
+  {
+    "word": "contribute",
+    "meaning": "貢献する・寄付する",
+    "example": "Good planning contributed to our success."
+  },
+  {
+    "word": "convenient",
+    "meaning": "便利な・都合のよい",
+    "example": "Choose a convenient time for your visit."
+  },
+  {
+    "word": "cooperate",
+    "meaning": "協力する",
+    "example": "Both companies agreed to cooperate fully."
+  },
+  {
+    "word": "coordinate",
+    "meaning": "調整する・連携させる",
+    "example": "Mia will coordinate the training sessions."
+  },
+  {
+    "word": "deadline",
+    "meaning": "締め切り",
+    "example": "The deadline for applications is Friday."
+  },
+  {
+    "word": "decline",
+    "meaning": "減少する・断る",
+    "example": "Online sales declined slightly in August."
+  },
+  {
+    "word": "defective",
+    "meaning": "欠陥のある",
+    "example": "Defective items may be returned free of charge."
+  },
+  {
+    "word": "delegate",
+    "meaning": "委任する・代表者",
+    "example": "Managers should delegate routine tasks."
+  },
+  {
+    "word": "deliberately",
+    "meaning": "意図的に・慎重に",
+    "example": "The launch was deliberately scheduled for June."
+  },
+  {
+    "word": "depart",
+    "meaning": "出発する",
+    "example": "The express train departs at 8:15."
+  },
+  {
+    "word": "deposit",
+    "meaning": "預金・保証金・預ける",
+    "example": "A deposit is required when booking."
+  },
+  {
+    "word": "designate",
+    "meaning": "指定する・任命する",
+    "example": "The director designated Lee as team leader."
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "悪化する・劣化する",
+    "example": "Road conditions may deteriorate overnight."
+  },
+  {
+    "word": "distribute",
+    "meaning": "配布する・流通させる",
+    "example": "Please distribute the agenda before noon."
+  },
+  {
+    "word": "diverse",
+    "meaning": "多様な",
+    "example": "The company serves a diverse group of clients."
+  },
+  {
+    "word": "efficient",
+    "meaning": "効率的な",
+    "example": "The new process is faster and more efficient."
+  },
+  {
+    "word": "elaborate",
+    "meaning": "詳しく説明する・精巧な",
+    "example": "Could you elaborate on your proposal?"
+  },
+  {
+    "word": "enclose",
+    "meaning": "同封する・囲む",
+    "example": "Please enclose a copy of your receipt."
+  },
+  {
+    "word": "encounter",
+    "meaning": "遭遇する・直面する",
+    "example": "We encountered a minor technical problem."
+  },
+  {
+    "word": "endorse",
+    "meaning": "支持する・裏書きする",
+    "example": "The board endorsed the revised plan."
+  },
+  {
+    "word": "enforce",
+    "meaning": "施行する・強制する",
+    "example": "The city will enforce the new parking rules."
+  },
+  {
+    "word": "enhance",
+    "meaning": "高める・向上させる",
+    "example": "The update will enhance data security."
+  },
+  {
+    "word": "enroll",
+    "meaning": "登録する・入会する",
+    "example": "Employees can enroll in the course online."
+  },
+  {
+    "word": "ensure",
+    "meaning": "確実にする",
+    "example": "Please check the form to ensure accuracy."
+  },
+  {
+    "word": "estimate",
+    "meaning": "見積もる・見積書",
+    "example": "We estimate the repairs will take a week."
+  },
+  {
+    "word": "evaluate",
+    "meaning": "評価する",
+    "example": "The committee will evaluate each proposal."
+  },
+  {
+    "word": "exceed",
+    "meaning": "上回る・超える",
+    "example": "Demand may exceed our current supply."
+  },
+  {
+    "word": "exceptional",
+    "meaning": "並外れた・例外的な",
+    "example": "She received an award for exceptional service."
+  },
+  {
+    "word": "exclusive",
+    "meaning": "限定の・独占的な",
+    "example": "Members receive exclusive access to the lounge."
+  },
+  {
+    "word": "expand",
+    "meaning": "拡大する",
+    "example": "The retailer plans to expand overseas."
+  },
+  {
+    "word": "expertise",
+    "meaning": "専門知識・技能",
+    "example": "We value her expertise in digital marketing."
+  },
+  {
+    "word": "expire",
+    "meaning": "期限が切れる",
+    "example": "Your membership will expire next month."
+  },
+  {
+    "word": "fluctuate",
+    "meaning": "変動する",
+    "example": "Fuel prices fluctuate throughout the year."
+  },
+  {
+    "word": "forecast",
+    "meaning": "予測・予報する",
+    "example": "The forecast shows steady economic growth."
+  },
+  {
+    "word": "formerly",
+    "meaning": "以前は",
+    "example": "The building was formerly a public library."
+  },
+  {
+    "word": "frequent",
+    "meaning": "頻繁な",
+    "example": "Frequent travelers can earn reward points."
+  },
+  {
+    "word": "fulfill",
+    "meaning": "果たす・満たす",
+    "example": "We hired more staff to fulfill the orders."
+  },
+  {
+    "word": "generate",
+    "meaning": "生み出す・発生させる",
+    "example": "The campaign generated many new inquiries."
+  },
+  {
+    "word": "guideline",
+    "meaning": "指針・ガイドライン",
+    "example": "Follow the safety guidelines at all times."
+  },
+  {
+    "word": "headquarters",
+    "meaning": "本社・本部",
+    "example": "The company headquarters is in Toronto."
+  },
+  {
+    "word": "identify",
+    "meaning": "特定する・見分ける",
+    "example": "The survey identified three major concerns."
+  },
+  {
+    "word": "immediately",
+    "meaning": "直ちに",
+    "example": "Report any damage immediately."
+  },
+  {
+    "word": "impartial",
+    "meaning": "公平な・偏りのない",
+    "example": "An impartial panel reviewed the complaint."
+  },
+  {
+    "word": "imply",
+    "meaning": "暗示する・ほのめかす",
+    "example": "The figures imply that demand is rising."
+  },
+  {
+    "word": "impressive",
+    "meaning": "印象的な・すばらしい",
+    "example": "The candidate has an impressive work history."
+  },
+  {
+    "word": "inquire",
+    "meaning": "問い合わせる",
+    "example": "Call this number to inquire about availability."
+  },
+  {
+    "word": "inspect",
+    "meaning": "検査する・点検する",
+    "example": "A technician will inspect the equipment."
+  },
+  {
+    "word": "installment",
+    "meaning": "分割払いの一回分",
+    "example": "The final installment is due next week."
+  },
+  {
+    "word": "inventory",
+    "meaning": "在庫・棚卸し",
+    "example": "The store checks its inventory every month."
+  },
+  {
+    "word": "invoice",
+    "meaning": "請求書",
+    "example": "The invoice includes shipping charges."
+  },
+  {
+    "word": "launch",
+    "meaning": "発売する・開始する",
+    "example": "They will launch the product in April."
+  },
+  {
+    "word": "lease",
+    "meaning": "賃貸契約・賃借する",
+    "example": "We signed a five-year office lease."
+  },
+  {
+    "word": "luggage",
+    "meaning": "手荷物",
+    "example": "Please keep your luggage with you."
+  },
+  {
+    "word": "maintenance",
+    "meaning": "保守・維持管理",
+    "example": "The elevator is closed for maintenance."
+  },
+  {
+    "word": "merchandise",
+    "meaning": "商品",
+    "example": "All merchandise is inspected before shipping."
+  },
+  {
+    "word": "merge",
+    "meaning": "合併する・統合する",
+    "example": "The two departments will merge in January."
+  },
+  {
+    "word": "modification",
+    "meaning": "変更・修正",
+    "example": "The design requires a minor modification."
+  },
+  {
+    "word": "notify",
+    "meaning": "通知する",
+    "example": "Please notify us of any address change."
+  },
+  {
+    "word": "obligation",
+    "meaning": "義務・責任",
+    "example": "The contract explains each party’s obligations."
+  },
+  {
+    "word": "obtain",
+    "meaning": "入手する・取得する",
+    "example": "You must obtain approval before purchasing."
+  },
+  {
+    "word": "occupy",
+    "meaning": "使用する・占める",
+    "example": "Our offices occupy the top two floors."
+  },
+  {
+    "word": "operator",
+    "meaning": "操作者・事業者",
+    "example": "Ask the operator to connect your call."
+  },
+  {
+    "word": "outstanding",
+    "meaning": "未払いの・非常に優れた",
+    "example": "Please pay the outstanding balance by Friday."
+  },
+  {
+    "word": "participate",
+    "meaning": "参加する",
+    "example": "Over 100 employees participated in the event."
+  },
+  {
+    "word": "permit",
+    "meaning": "許可する・許可証",
+    "example": "Visitors are not permitted beyond this point."
+  },
+  {
+    "word": "personnel",
+    "meaning": "職員・人事部",
+    "example": "Personnel will explain the benefit package."
+  },
+  {
+    "word": "persuade",
+    "meaning": "説得する",
+    "example": "The presentation persuaded investors to support us."
+  },
+  {
+    "word": "procedure",
+    "meaning": "手順・手続き",
+    "example": "This manual explains the correct procedure."
+  },
+  {
+    "word": "prohibit",
+    "meaning": "禁止する",
+    "example": "Company rules prohibit smoking indoors."
+  },
+  {
+    "word": "promote",
+    "meaning": "促進する・昇進させる",
+    "example": "The campaign promotes local products."
+  },
+  {
+    "word": "promptly",
+    "meaning": "速やかに・時間どおりに",
+    "example": "All inquiries will be answered promptly."
+  },
+  {
+    "word": "proposal",
+    "meaning": "提案・企画案",
+    "example": "The board approved our proposal."
+  },
+  {
+    "word": "prospective",
+    "meaning": "見込みのある・将来の",
+    "example": "Prospective buyers toured the property."
+  },
+  {
+    "word": "purchase",
+    "meaning": "購入する・購入品",
+    "example": "Keep the receipt as proof of purchase."
+  },
+  {
+    "word": "qualification",
+    "meaning": "資格・適性",
+    "example": "Experience is an essential qualification."
+  },
+  {
+    "word": "quotation",
+    "meaning": "見積書・引用",
+    "example": "We requested a quotation from three suppliers."
+  },
+  {
+    "word": "recruit",
+    "meaning": "採用する・募集する",
+    "example": "The firm plans to recruit ten engineers."
+  },
+  {
+    "word": "refund",
+    "meaning": "払い戻し・返金する",
+    "example": "Customers may request a full refund."
+  },
+  {
+    "word": "regardless",
+    "meaning": "〜にかかわらず",
+    "example": "The fee applies regardless of age."
+  },
+  {
+    "word": "relocate",
+    "meaning": "移転する・転居させる",
+    "example": "The company will relocate its main office."
+  },
+  {
+    "word": "remainder",
+    "meaning": "残り・残額",
+    "example": "The remainder will be paid upon delivery."
+  },
+  {
+    "word": "renewal",
+    "meaning": "更新・再開",
+    "example": "Membership renewal is available online."
+  },
+  {
+    "word": "require",
+    "meaning": "必要とする・要求する",
+    "example": "This position requires strong computer skills."
+  },
+  {
+    "word": "reservation",
+    "meaning": "予約",
+    "example": "I would like to confirm my reservation."
+  },
+  {
+    "word": "resolve",
+    "meaning": "解決する・決意する",
+    "example": "Our support team resolved the issue quickly."
+  },
+  {
+    "word": "revenue",
+    "meaning": "収益・歳入",
+    "example": "Advertising revenue rose by twelve percent."
+  },
+  {
+    "word": "revise",
+    "meaning": "修正する・改訂する",
+    "example": "Please revise the report before submitting it."
+  },
+  {
+    "word": "schedule",
+    "meaning": "予定・予定を組む",
+    "example": "The interview is scheduled for Tuesday."
+  },
+  {
+    "word": "shortage",
+    "meaning": "不足",
+    "example": "A parts shortage delayed production."
+  },
+  {
+    "word": "specialize",
+    "meaning": "専門とする",
+    "example": "The agency specializes in business travel."
+  },
+  {
+    "word": "stable",
+    "meaning": "安定した",
+    "example": "Prices have remained stable this quarter."
+  },
+  {
+    "word": "submit",
+    "meaning": "提出する",
+    "example": "Submit your expense report by Friday."
+  },
+  {
+    "word": "substantial",
+    "meaning": "かなりの・実質的な",
+    "example": "The renovation requires substantial investment."
+  },
+  {
+    "word": "supervise",
+    "meaning": "監督する",
+    "example": "She supervises a team of twelve employees."
+  },
+  {
+    "word": "supplier",
+    "meaning": "供給業者・仕入先",
+    "example": "Our supplier offers free delivery."
+  },
+  {
+    "word": "temporarily",
+    "meaning": "一時的に",
+    "example": "The entrance is temporarily closed."
+  },
+  {
+    "word": "terminate",
+    "meaning": "終了する・解雇する",
+    "example": "Either party may terminate the agreement."
+  },
+  {
+    "word": "transfer",
+    "meaning": "移す・転勤させる",
+    "example": "Please transfer the payment electronically."
+  },
+  {
+    "word": "undertake",
+    "meaning": "引き受ける・着手する",
+    "example": "The team will undertake a market study."
+  },
+  {
+    "word": "vacancy",
+    "meaning": "空室・欠員",
+    "example": "The hotel has no vacancies this weekend."
+  },
+  {
+    "word": "valid",
+    "meaning": "有効な・妥当な",
+    "example": "This coupon is valid until December."
+  },
+  {
+    "word": "warehouse",
+    "meaning": "倉庫",
+    "example": "The goods are stored in a nearby warehouse."
+  },
+  {
+    "word": "waive",
+    "meaning": "免除する・放棄する",
+    "example": "The bank agreed to waive the service fee."
+  },
+  {
+    "word": "access",
+    "meaning": "利用する・利用権",
+    "example": "Employees can access the database remotely."
+  },
+  {
+    "word": "adjacent",
+    "meaning": "隣接した",
+    "example": "Parking is available in the adjacent lot."
+  },
+  {
+    "word": "affordable",
+    "meaning": "手頃な価格の",
+    "example": "The company offers affordable health plans."
+  },
+  {
+    "word": "agenda",
+    "meaning": "議題・予定表",
+    "example": "Budget planning is first on the agenda."
+  },
+  {
+    "word": "alternative",
+    "meaning": "代替案・代わりの",
+    "example": "We need an alternative shipping method."
+  },
+  {
+    "word": "amend",
+    "meaning": "修正する・改正する",
+    "example": "The lawyer amended two sections of the contract."
+  },
+  {
+    "word": "assemble",
+    "meaning": "組み立てる・集める",
+    "example": "The chairs are easy to assemble."
+  },
+  {
+    "word": "assign",
+    "meaning": "割り当てる・任命する",
+    "example": "The manager assigned each member a task."
+  },
+  {
+    "word": "attain",
+    "meaning": "達成する・到達する",
+    "example": "The team attained its yearly sales target."
+  },
+  {
+    "word": "awareness",
+    "meaning": "認識・知名度",
+    "example": "The campaign raised awareness of the brand."
+  },
+  {
+    "word": "clarify",
+    "meaning": "明確にする",
+    "example": "Could you clarify the payment terms?"
+  },
+  {
+    "word": "coincide",
+    "meaning": "同時に起こる・一致する",
+    "example": "The sale will coincide with the store opening."
+  },
+  {
+    "word": "compile",
+    "meaning": "まとめる・編集する",
+    "example": "We compiled the results into one report."
+  },
+  {
+    "word": "concern",
+    "meaning": "懸念・関係する",
+    "example": "Rising costs are a major concern."
+  },
+  {
+    "word": "conduct",
+    "meaning": "実施する・行為",
+    "example": "The agency conducted a customer survey."
+  },
+  {
+    "word": "constrain",
+    "meaning": "制約する・抑える",
+    "example": "A limited budget constrained the project."
+  },
+  {
+    "word": "consult",
+    "meaning": "相談する・参照する",
+    "example": "Consult your supervisor before making changes."
+  },
+  {
+    "word": "contingency",
+    "meaning": "不測の事態・偶発事象",
+    "example": "We prepared a contingency plan for delays."
+  },
+  {
+    "word": "crucial",
+    "meaning": "極めて重要な",
+    "example": "Accurate data is crucial to this decision."
+  },
+  {
+    "word": "deduct",
+    "meaning": "差し引く・控除する",
+    "example": "The fee will be deducted from your account."
+  },
+  {
+    "word": "disclose",
+    "meaning": "開示する・明らかにする",
+    "example": "Applicants must disclose any conflicts of interest."
+  },
+  {
+    "word": "disposal",
+    "meaning": "処分・廃棄",
+    "example": "Follow the rules for battery disposal."
+  },
+  {
+    "word": "durable",
+    "meaning": "耐久性のある",
+    "example": "The case is lightweight but durable."
+  },
+  {
+    "word": "emphasize",
+    "meaning": "強調する",
+    "example": "The speaker emphasized the need for safety."
+  },
+  {
+    "word": "equivalent",
+    "meaning": "同等の・相当するもの",
+    "example": "Online training is equivalent to the class."
+  },
+  {
+    "word": "exhibit",
+    "meaning": "展示する・展示品",
+    "example": "Local artists will exhibit their work."
+  },
+  {
+    "word": "feasible",
+    "meaning": "実行可能な",
+    "example": "The engineers believe the plan is feasible."
+  },
+  {
+    "word": "flexible",
+    "meaning": "柔軟な・融通の利く",
+    "example": "Employees may choose a flexible schedule."
+  },
+  {
+    "word": "inspection",
+    "meaning": "検査・点検",
+    "example": "The vehicle passed its safety inspection."
+  },
+  {
+    "word": "occupancy",
+    "meaning": "占有・客室稼働率",
+    "example": "Hotel occupancy reached ninety percent."
+  },
+  {
+    "word": "productive",
+    "meaning": "生産的な",
+    "example": "We had a productive meeting this morning."
+  },
+  {
+    "word": "recipient",
+    "meaning": "受取人・受賞者",
+    "example": "The recipient must sign for the package."
+  },
+  {
+    "word": "relevant",
+    "meaning": "関連のある",
+    "example": "Please attach all relevant documents."
+  },
+  {
+    "word": "surplus",
+    "meaning": "余剰・黒字",
+    "example": "The store sold its surplus inventory."
+  },
+  {
+    "word": "unanimous",
+    "meaning": "全員一致の",
+    "example": "The committee reached a unanimous decision."
+  }
+]

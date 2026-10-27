@@ -1,0 +1,31 @@
+# Local configuration and editor backups
+.env
+.env.*
+!.env.example
+!.env.*.example
+*~
+*.bak
+*.swp
+*.swo
+.DS_Store
+.npmrc
+
+# Dependencies, generated packages and runtime data
+node_modules/
+dist/
+dist-*/
+var/
+logs/
+*.log
+*.ehpk
+*.zip
+*.tsbuildinfo
+
+# Local credentials and agent configuration
+.aws/
+.codex/
+.agents/
+.ssh/
+*.pem
+*.key
+credentials*

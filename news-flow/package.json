@@ -1,0 +1,28 @@
+{
+  "name": "even-g2-news-flow",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5173",
+    "news-server": "node --env-file-if-exists=.env server/index.mjs",
+    "sim": "node node_modules/@evenrealities/evenhub-simulator/bin/index.js http://localhost:5173",
+    "qr": "evenhub qr",
+    "build": "tsc && vite build",
+    "pack": "npm run build && evenhub pack app.json dist -o news-flow.ehpk --sdk-ver 0.0.14",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@evenrealities/even_hub_sdk": "^0.0.14"
+  },
+  "devDependencies": {
+    "@evenrealities/evenhub-cli": "^0.1.14",
+    "@evenrealities/evenhub-simulator": "^0.9.5",
+    "@rolldown/binding-linux-x64-gnu": "^1.2.6",
+    "typescript": "^5.9.2",
+    "vite": "^8.2.2"
+  }
+}
